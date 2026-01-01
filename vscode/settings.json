@@ -1,0 +1,36 @@
+{
+    "editor.fontSize": 17,
+
+    "workbench.activityBar.location": "hidden",
+    "workbench.sideBar.location": "right",    
+
+    "workbench.editor.showTabs": "single",
+    "workbench.editor.showIcons": false,
+    "workbench.editor.labelFormat": "medium",
+
+    "files.exclude": {
+    "**/.DS_Store": true,
+
+    "**/node_modules": true,
+    "**/bower_components": true,
+
+    "**/__pycache__": true,
+    "**/.cache": true,
+    "**/.idea": true,
+    "**/.pytest_cache": true,
+    "**/.mypy_cache": true,
+    "**/.venv": true,
+    "**/.coverage": true,
+    "**/*.py[co]": true,
+    "**/htmlcoverage": true,
+    "**/docs/build": true
+  },
+  "telemetry.telemetryLevel": "off",
+  "workbench.colorTheme": "pustota",
+
+  "terminal.integrated.fontSize": 17,
+  "terminal.integrated.shellIntegration.enabled": false,
+
+  "editor.scrollbar.horizontal": "hidden",
+  "files.autoSave": "onFocusChange"
+}
